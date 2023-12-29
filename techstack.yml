@@ -1,0 +1,1421 @@
+repo_name: 2lambda123/cbioportal
+report_id: 6e3e422f766512f191331ca720fb983e
+version: 0.1
+repo_type: Public
+timestamp: '2023-12-29T20:32:23+00:00'
+requested_by: MatthijsPon
+provider: github
+branch: master
+detected_tools_count: 121
+tools:
+- name: ActionScript
+  description: 'An object-oriented programming language '
+  website_url: http://www.adobe.com/devnet/actionscript.html
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/2329/8ei_UuLc_400x400.png
+  detection_source: Repo Metadata
+- name: Java
+  description: A concurrent, class-based, object-oriented, language specifically designed
+    to have as few implementation dependencies as possible
+  website_url: https://www.java.com
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/995/K85ZWV2F.png
+  detection_source: Repo Metadata
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source: Repo Metadata
+- name: Jinja
+  description: Full featured template engine for Python
+  website_url: https://palletsprojects.com/p/jinja/
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Templating Languages & Extensions
+  image_url: https://img.stackshare.io/service/2303/New_Project__20_.png
+  detection_source: requirements.txt
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2021-03-19 21:51:15.000000000 Z
+- name: Perl
+  description: Highly capable, feature-rich programming language with over 26 years
+    of development
+  website_url: http://www.perl.org/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1048/perl.png
+  detection_source: Repo Metadata
+- name: Python
+  description: A clear and powerful object-oriented programming language, comparable
+    to Perl, Ruby, Scheme, or Java.
+  website_url: https://www.python.org
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source: Repo Metadata
+- name: SQL
+  description: It is a domain-specific language used in programming
+  website_url: https://en.wikipedia.org/wiki/SQL
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/2271/default_068d33483bba6b81ee13fbd4dc7aab9780896a54.png
+  detection_source: core/src/test/resources/seed_mini.sql
+  last_updated_by: Stuart Watt
+  last_updated_on: 2015-07-07 14:27:23.000000000 Z
+- name: Spring Framework
+  description: An application framework and inversion of control container for the
+    Java platform
+  website_url: https://spring.io/projects/spring-framework
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/2006/spring-framework-project-logo.png
+  detection_source: persistence/pom.xml
+  last_updated_by: Niklas Reimer
+  last_updated_on: 2020-10-14 12:47:00.000000000 Z
+- name: guava
+  description: Google Core Libraries for Java 6+
+  website_url: https://github.com/google/guava
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Java Tools
+  image_url: https://img.stackshare.io/service/2970/wBjKn0ol.png
+  detection_source: security/pom.xml
+  last_updated_by: Niklas Reimer
+  last_updated_on: 2020-10-14 12:47:00.000000000 Z
+- name: Ehcache
+  description: Java's Most Widely-Used Cache
+  website_url: http://ehcache.org/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Cache
+  image_url: https://img.stackshare.io/service/3093/EhcacheTwitterIcon.png
+  detection_source: persistence/persistence-api/pom.xml
+  last_updated_by: Niklas Reimer
+  last_updated_on: 2020-09-25 13:07:38.000000000 Z
+- name: H2 Database
+  description: A relational database management system written in Java
+  website_url: http://www.h2database.com/
+  open_source: false
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Databases
+  image_url: https://img.stackshare.io/service/3105/h2-logo_square_400x400.png
+  detection_source: persistence/persistence-mybatis/pom.xml
+  last_updated_by: Ersin Ciftci
+  last_updated_on: 2016-12-27 03:18:59.000000000 Z
+- name: MongoDB
+  description: The database for giant ideas
+  website_url: http://www.mongodb.com/
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Databases
+  image_url: https://img.stackshare.io/service/1030/leaf-360x360.png
+  detection_source: web/pom.xml
+  last_updated_by: Karthik K
+  last_updated_on: 2021-08-25 20:20:29.000000000 Z
+- name: MyBatis
+  description: SQL Mapper Framework for Java
+  website_url: http://www.mybatis.org/mybatis-3/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Object Relational Mapper (ORM)
+  image_url: https://img.stackshare.io/service/5582/1483254.png
+  detection_source: persistence/persistence-mybatis/pom.xml
+  last_updated_by: Niklas Reimer
+  last_updated_on: 2020-10-19 12:50:09.000000000 Z
+- name: MySQL
+  description: The world's most popular open source database
+  website_url: http://www.mysql.com
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Databases
+  image_url: https://img.stackshare.io/service/1025/logo-mysql-170x170.png
+  detection_source: requirements.txt
+  last_updated_by: Avery Wang
+  last_updated_on: 2019-01-07 19:18:51.000000000 Z
+- name: Apache Maven
+  description: 'Apache build manager for Java projects. '
+  website_url: http://maven.apache.org/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Java Build Tools
+  image_url: https://img.stackshare.io/package_manager/977/default_9833f2ef0bbc2a946b4cc5e9307264033361076b.png
+  detection_source: docker/web-and-data/Dockerfile
+  last_updated_by: Hongxin
+  last_updated_on: 2022-11-11 15:16:05.000000000 Z
+- name: Chai
+  description: A BDD / TDD assertion library
+  website_url: http://chaijs.com/
+  version: 3.5.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Javascript Testing Framework
+  image_url: https://img.stackshare.io/service/1725/chai.png
+  detection_source_url: https://github.com/2lambda123/cbioportal/blob/master/portal/package.json
+  detection_source: portal/package.json
+  last_updated_by: Sun
+  last_updated_on: 2016-10-21 19:30:17.000000000 Z
+- name: CircleCI
+  description: Automate your development process quickly, safely, and at scale
+  website_url: https://circleci.com/
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Continuous Integration
+  image_url: https://img.stackshare.io/service/190/CvqrSSFs_400x400.jpg
+  detection_source: ".circleci/config.yml"
+  last_updated_by: Ino de Bruijn
+  last_updated_on: 2021-07-26 23:55:01.000000000 Z
+- name: Docker
+  description: Enterprise Container Platform for High-Velocity Innovation.
+  website_url: https://www.docker.com/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Virtual Machine Platforms & Containers
+  image_url: https://img.stackshare.io/service/586/n4u37v9t_400x400.png
+  detection_source: Repo Metadata
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source: Repo Metadata
+- name: GitHub Actions
+  description: Automate your workflow from idea to production
+  website_url: https://github.com/features/actions
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Continuous Integration
+  image_url: https://img.stackshare.io/service/11563/actions.png
+  detection_source: ".github/workflows/cbioportal-performance-test.yml"
+  last_updated_by: Manda Wilson
+  last_updated_on: 2020-10-28 14:25:06.000000000 Z
+- name: JUnit
+  description: A programmer-oriented testing framework for Java
+  website_url: http://junit.org/
+  version: '4.12'
+  license: EPL-1.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Testing Frameworks
+  image_url: https://img.stackshare.io/service/2020/874086.png
+  detection_source_url: https://github.com/2lambda123/cbioportal/blob/master/portal/src/integration-tests/saml-oauth2-setup/pom.xml
+  detection_source: core/pom.xml
+  last_updated_by: Onur Sumer
+  last_updated_on: 2012-07-31 16:14:10.000000000 Z
+- name: Logback
+  description: A logging framework for Java applications
+  website_url: https://logback.qos.ch/
+  open_source: false
+  hosted_saas: false
+  category: Monitoring
+  sub_category: Log Management
+  image_url: https://img.stackshare.io/service/2923/05518ecaa42841e834421e9d6987b04f_400x400.png
+  detection_source: core/src/test/resources/logback.xml
+  last_updated_by: Luke Sikina
+  last_updated_on: 2022-09-16 19:08:00.000000000 Z
+- name: Mocha
+  description: Simple, flexible, fun javascript test framework for node.js &amp; the
+    browser
+  website_url: http://mochajs.org/
+  version: 3.1.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Javascript Testing Framework
+  image_url: https://img.stackshare.io/service/832/mocha.png
+  detection_source_url: https://github.com/2lambda123/cbioportal/blob/master/portal/package.json
+  detection_source: portal/package.json
+  last_updated_by: Sun
+  last_updated_on: 2016-10-27 18:33:06.000000000 Z
+- name: Mockito
+  description: Tasty mocking framework for unit tests in Java
+  website_url: https://site.mockito.org/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Testing Frameworks
+  image_url: https://img.stackshare.io/service/2021/4y634TJm_400x400.jpg
+  detection_source: core/pom.xml
+  last_updated_by: Ersin Ciftci
+  last_updated_on: 2017-08-31 16:10:31.000000000 Z
+- name: PyPI
+  description: A repository of software for the Python programming language
+  website_url: https://pypi.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Hosted Package Repository
+  image_url: https://img.stackshare.io/service/12572/-RIWgodF_400x400.jpg
+  detection_source: requirements.txt
+  last_updated_by: Avery Wang
+  last_updated_on: 2019-01-07 19:18:51.000000000 Z
+- name: SLF4J
+  description: Simple logging facade for Java
+  website_url: http://slf4j.org/
+  open_source: false
+  hosted_saas: false
+  category: Monitoring
+  sub_category: Log Management
+  image_url: https://img.stackshare.io/service/2805/05518ecaa42841e834421e9d6987b04f_400x400.png
+  detection_source: pom.xml
+  last_updated_by: Onur Sumer
+  last_updated_on: 2012-07-31 16:14:10.000000000 Z
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source: portal/package.json
+  last_updated_by: Sun
+  last_updated_on: 2016-10-21 19:30:17.000000000 Z
+- name: Apache Camel
+  description: A versatile open source integration framework
+  website_url: https://camel.apache.org/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Application Hosting
+  sub_category: Platform as a Service
+  image_url: https://img.stackshare.io/service/3276/xWt1RFo6_400x400.jpg
+  detection_source: portal/src/integration-tests/saml-oauth2-setup/saml-idp/src/main/resources/application.yml
+  last_updated_by: Pim van Nierop
+  last_updated_on: 2020-08-10 15:37:16.000000000 Z
+- name: Heroku
+  description: Build, deliver, monitor and scale web apps and APIs with a trail blazing
+    developer experience.
+  website_url: https://www.heroku.com
+  open_source: false
+  hosted_saas: true
+  category: Application Hosting
+  sub_category: Platform as a Service
+  image_url: https://img.stackshare.io/service/133/3wgIDj3j.png
+  detection_source: app.json
+  last_updated_by: Karthik Kalletla
+  last_updated_on: 2020-11-10 20:56:38.000000000 Z
+- name: Dataform
+  description: A framework for managing SQL based data operations.
+  website_url: https://dataform.co/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Analytics
+  sub_category: Business Intelligence
+  image_url: https://img.stackshare.io/service/11236/Group_22__3_.png
+  detection_source: core/pom.xml
+  last_updated_by: Niklas Reimer
+  last_updated_on: 2020-09-25 13:07:38.000000000 Z
+- name: Shell
+  description: A shell is a text-based terminal, used for manipulating programs and
+    files. Shell scripts typically manage program execution.
+  website_url: https://en.wikipedia.org/wiki/Shell_script
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source: Repo Metadata
+- name: Underscore
+  description: JavaScript's utility _ belt
+  website_url: http://underscorejs.org/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript Utilities & Libraries
+  image_url: https://img.stackshare.io/service/1150/underscore-js.png
+  detection_source: portal/package.json
+  last_updated_by: Sun
+  last_updated_on: 2016-10-27 18:33:06.000000000 Z
+- name: batik:batik-rasterizer
+  description: Batik SVG Rasterizer
+  license: Other
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source: core/pom.xml
+  last_updated_by: Luke Sikina
+  last_updated_on: 2022-09-16 19:08:00.000000000 Z
+- name: cglib:cglib
+  description: Cglib is a powerful
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source: web/pom.xml
+  last_updated_by: Benjamin Gross
+  last_updated_on: 2014-05-20 17:44:19.000000000 Z
+- name: ch.qos.logback:logback-classic
+  description: Logback-classic module
+  version: 1.2.10
+  license: EPL-1.0,LGPL-2.1+
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/2lambda123/cbioportal/blob/master/pom.xml
+  detection_source: pom.xml
+  last_updated_by: Luke Sikina
+  last_updated_on: 2022-09-16 19:08:00.000000000 Z
+  vulnerabilities:
+  - name: logback serialization vulnerability
+    cve_id: CVE-2023-6378
+    cve_url: https://github.com/advisories/GHSA-vmq6-5m68-f53m
+    detected_date: Nov 30
+    severity: high
+    first_patched: 1.2.13
+- name: ch.qos.logback:logback-core
+  description: Logback-core module
+  version: 1.2.10
+  license: EPL-1.0,LGPL-2.1+
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/2lambda123/cbioportal/blob/master/pom.xml
+  detection_source: pom.xml
+  last_updated_by: Luke Sikina
+  last_updated_on: 2022-09-16 19:08:00.000000000 Z
+  vulnerabilities:
+  - name: logback serialization vulnerability
+    cve_id: CVE-2023-6378
+    cve_url: https://github.com/advisories/GHSA-vmq6-5m68-f53m
+    detected_date: Nov 30
+    severity: high
+    first_patched: 1.2.13
+- name: com.fasterxml.jackson.core:jackson-annotations
+  description: Core annotations used for value types
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source: security/security-spring/pom.xml
+  last_updated_by: Niklas Reimer
+  last_updated_on: 2020-09-25 13:07:38.000000000 Z
+- name: com.fasterxml.jackson.core:jackson-core
+  description: Core Jackson processing abstractions
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source: core/pom.xml
+  last_updated_by: Niklas Reimer
+  last_updated_on: 2020-10-14 12:47:00.000000000 Z
+- name: com.fasterxml.jackson.core:jackson-databind
+  description: 'General data-binding functionality for Jackson: works on core streaming
+    API'
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source: core/pom.xml
+  last_updated_by: Niklas Reimer
+  last_updated_on: 2020-10-14 12:47:00.000000000 Z
+- name: com.fasterxml.jackson.dataformat:jackson-dataformat-yaml
+  description: Support for reading and writing YAML-encoded data via Jackson abstractions
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source: core/pom.xml
+  last_updated_by: Niklas Reimer
+  last_updated_on: 2020-10-14 12:47:00.000000000 Z
+- name: com.fasterxml.jackson.datatype:jackson-datatype-jdk8
+  description: Add-on module for Jackson
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source: portal/pom.xml
+  last_updated_by: Luke Sikina
+  last_updated_on: 2022-05-16 20:26:39.000000000 Z
+- name: com.google.guava:guava
+  description: Guava is a suite of core and expanded libraries that include utility
+    classes
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source: security/pom.xml
+  last_updated_by: Niklas Reimer
+  last_updated_on: 2020-10-14 12:47:00.000000000 Z
+- name: com.google.inject:guice
+  description: Guice is a lightweight dependency injection framework for Java 6 and
+    above
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source: security/security-spring/pom.xml
+  last_updated_by: Niklas Reimer
+  last_updated_on: 2020-09-25 13:07:38.000000000 Z
+- name: com.googlecode.json-simple:json-simple
+  description: A simple Java toolkit for JSON
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source: core/pom.xml
+  last_updated_by: Niklas Reimer
+  last_updated_on: 2020-10-14 12:47:00.000000000 Z
+- name: com.h2database:h2
+  description: H2 Database Engine
+  license: MIT-feh
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source: persistence/persistence-mybatis/pom.xml
+  last_updated_by: Ersin Ciftci
+  last_updated_on: 2016-12-27 03:18:59.000000000 Z
+- name: com.jayway.jsonpath:json-path-assert
+  description: Assertions on Json using JsonPath
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source: web/pom.xml
+  last_updated_by: Niklas Reimer
+  last_updated_on: 2020-09-25 13:07:38.000000000 Z
+- name: commons-beanutils:commons-beanutils
+  description: Apache Commons BeanUtils provides an easy-to-use but flexible wrapper
+    around reflection and introspection
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source: service/pom.xml
+  last_updated_by: Pim van Nierop
+  last_updated_on: 2023-01-16 15:47:31.000000000 Z
+- name: commons-cli:commons-cli
+  description: Apache Commons CLI provides a simple API for presenting
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source: core/pom.xml
+  last_updated_by: Niklas Reimer
+  last_updated_on: 2021-02-05 14:54:04.000000000 Z
+- name: commons-codec:commons-codec
+  description: The Apache Commons Codec package contains simple encoder and decoders
+    for various formats such as Base64 and Hexadecimal
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source: core/pom.xml
+  last_updated_by: Niklas Reimer
+  last_updated_on: 2021-02-05 14:54:04.000000000 Z
+- name: commons-fileupload:commons-fileupload
+  description: The Apache Commons FileUpload component provides a simple yet flexible
+    means of adding support for multipart file upload functionality to servlets and
+    web applications
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source: core/pom.xml
+  last_updated_by: Niklas Reimer
+  last_updated_on: 2021-02-05 14:54:04.000000000 Z
+- name: commons-httpclient:commons-httpclient
+  description: The HttpClient component supports the client-side of RFC 1945
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source: core/pom.xml
+  last_updated_by: Niklas Reimer
+  last_updated_on: 2021-02-05 14:54:04.000000000 Z
+- name: commons-io:commons-io
+  description: The Apache Commons IO library contains utility classes
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source: core/pom.xml
+  last_updated_by: Niklas Reimer
+  last_updated_on: 2021-02-05 14:54:04.000000000 Z
+- name: commons-validator:commons-validator
+  description: Apache Commons Validator provides the building blocks for both client
+    side validation and server side data validation
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source: web/pom.xml
+  last_updated_by: Niklas Reimer
+  last_updated_on: 2021-02-05 14:54:04.000000000 Z
+- name: dom4j:dom4j
+  description: Flexible XML framework for Java
+  license: Plexus
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source: core/pom.xml
+  last_updated_by: Jianjiong Gao
+  last_updated_on: 2014-01-17 22:04:32.000000000 Z
+- name: io.springfox:springfox-bean-validators
+  description: JSON API documentation for spring based applications
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source: web/pom.xml
+  last_updated_by: Luke Sikina
+  last_updated_on: 2022-06-29 12:44:58.000000000 Z
+- name: io.springfox:springfox-spring-web
+  description: JSON API documentation for spring based applications
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source: web/pom.xml
+  last_updated_by: Luke Sikina
+  last_updated_on: 2022-06-29 12:44:58.000000000 Z
+- name: javax.annotation:javax.annotation-api
+  description: Common Annotations for the JavaTM Platform API
+  license: GPL-2.0-with-classpath-exception
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source: persistence/pom.xml
+  last_updated_by: Niklas Reimer
+  last_updated_on: 2020-10-14 12:47:00.000000000 Z
+- name: javax.cache:cache-api
+  description: Sonatype helps open source projects to set up Maven repositories on
+    https://oss.sonatype.org/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source: persistence/persistence-api/pom.xml
+  last_updated_by: Niklas Reimer
+  last_updated_on: 2020-09-25 13:07:38.000000000 Z
+- name: javax.el:javax.el-api
+  license: GPL-2.0-with-classpath-exception
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source: web/pom.xml
+  last_updated_by: Karthik K
+  last_updated_on: 2021-08-25 20:20:29.000000000 Z
+- name: javax.servlet:javax.servlet-api
+  description: Java.net - The Source for Java Technology Collaboration
+  license: GPL-2.0-with-classpath-exception
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source: core/pom.xml
+  last_updated_by: Niklas Reimer
+  last_updated_on: 2020-10-14 12:47:00.000000000 Z
+- name: jaxen:jaxen
+  description: Jaxen is a universal XPath engine for Java
+  license: DSDP
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source: core/pom.xml
+  last_updated_by: Jianjiong Gao
+  last_updated_on: 2014-01-22 18:48:08.000000000 Z
+- name: jstl:jstl
+  license: GPL-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source: portal/pom.xml
+  last_updated_by: Robert Sheridan
+  last_updated_on: 2016-02-16 20:21:47.000000000 Z
+- name: junit:junit
+  description: JUnit is a unit testing framework for Java
+  version: '4.12'
+  license: EPL-1.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/2lambda123/cbioportal/blob/master/portal/src/integration-tests/saml-oauth2-setup/pom.xml
+  detection_source: core/pom.xml
+  last_updated_by: Niklas Reimer
+  last_updated_on: 2020-10-14 12:47:00.000000000 Z
+  vulnerabilities:
+  - name: TemporaryFolder on unix-like systems does not limit access to created files
+    cve_id: CVE-2020-15250
+    cve_url: https://github.com/advisories/GHSA-269g-pwp5-87pp
+    detected_date: Aug 22
+    severity: moderate
+    first_patched: 4.13.1
+- name: mysql:mysql-connector-java
+  description: MySQL JDBC Type 4 driver
+  license: GPL-3.0-only
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source: service/pom.xml
+  last_updated_by: Niklas Reimer
+  last_updated_on: 2020-10-14 12:47:00.000000000 Z
+- name: net.sf.jopt-simple:jopt-simple
+  description: A Java library for parsing command line options
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source: core/pom.xml
+  last_updated_by: Robert Sheridan
+  last_updated_on: 2016-02-16 20:21:47.000000000 Z
+- name: net.sf.jung:jung-api
+  description: Graph interfaces used by the JUNG project
+  license: DSDP
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source: core/pom.xml
+  last_updated_by: Robert Sheridan
+  last_updated_on: 2016-06-21 12:06:36.000000000 Z
+- name: net.sf.jung:jung-graph-impl
+  description: Graph implementations for the JUNG project
+  license: DSDP
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source: core/pom.xml
+  last_updated_by: Abeshouse, Adam A./Sloan Kettering Institute
+  last_updated_on: 2016-03-15 20:15:08.000000000 Z
+- name: net.sf.opencsv:opencsv
+  description: A simple library for reading and writing CSV in Java
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source: core/pom.xml
+  last_updated_by: Robert Sheridan
+  last_updated_on: 2016-02-16 20:21:47.000000000 Z
+- name: org.antlr:antlr-runtime
+  description: A framework for constructing recognizers
+  license: LAL-1.3
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source: core/pom.xml
+  last_updated_by: Luke Sikina
+  last_updated_on: 2022-11-21 19:52:34.000000000 Z
+- name: org.apache.commons:commons-collections4
+  description: The Apache Commons Collections package contains types that extend and
+    augment the Java Collections Framework
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source: core/pom.xml
+  last_updated_by: Luke Sikina
+  last_updated_on: 2022-11-21 19:52:34.000000000 Z
+- name: org.apache.commons:commons-dbcp2
+  description: Apache Commons DBCP software implements Database Connection Pooling
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source: core/pom.xml
+  last_updated_by: Luke Sikina
+  last_updated_on: 2022-11-21 19:52:34.000000000 Z
+- name: org.apache.commons:commons-lang3
+  description: Apache Commons Lang
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source: service/pom.xml
+  last_updated_by: Pim van Nierop
+  last_updated_on: 2023-01-16 15:47:31.000000000 Z
+- name: org.apache.commons:commons-math3
+  description: The Apache Commons Math project is a library of lightweight
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source: persistence/persistence-mybatis/pom.xml
+  last_updated_by: Pim van Nierop
+  last_updated_on: 2021-09-01 06:39:18.000000000 Z
+- name: org.apache.commons:commons-text
+  description: Apache Commons Text is a library focused on algorithms working on strings
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source: core/pom.xml
+  last_updated_by: Luke Sikina
+  last_updated_on: 2022-11-21 19:52:34.000000000 Z
+- name: org.apache.httpcomponents:httpcore
+  description: Apache HttpComponents Core
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source: core/pom.xml
+  last_updated_by: Luke Sikina
+  last_updated_on: 2022-11-21 19:52:34.000000000 Z
+- name: org.apache.tomcat:tomcat-catalina
+  description: Tomcat Servlet Engine Core Classes and Standard implementations
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source: portal/pom.xml
+  last_updated_by: Robert Sheridan
+  last_updated_on: 2021-01-12 16:10:58.000000000 Z
+- name: org.apache.xmlgraphics:batik-codec
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source: core/pom.xml
+  last_updated_by: Luke Sikina
+  last_updated_on: 2022-11-21 19:52:34.000000000 Z
+- name: org.apache.xmlgraphics:fop
+  description: Apache FOP
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source: core/pom.xml
+  last_updated_by: Luke Sikina
+  last_updated_on: 2022-11-21 19:52:34.000000000 Z
+- name: org.aspectj:aspectjweaver
+  description: The AspectJ weaver introduces advices to java classes
+  license: EPL-1.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source: web/pom.xml
+  last_updated_by: Karthik K
+  last_updated_on: 2021-08-25 20:20:29.000000000 Z
+- name: org.easymock:easymock
+  description: EasyMock provides an easy way to create Mock Objects for interfaces
+    and classes generating them on the fly
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source: core/pom.xml
+  last_updated_by: Luke Sikina
+  last_updated_on: 2022-11-21 19:52:34.000000000 Z
+- name: org.ehcache:ehcache
+  description: Ehcache single jar, containing all modules
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source: persistence/persistence-api/pom.xml
+  last_updated_by: Pim van Nierop
+  last_updated_on: 2021-07-22 12:13:43.000000000 Z
+- name: org.hibernate:hibernate-validator
+  description: Hibernate's Bean Validation
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source: model/pom.xml
+  last_updated_by: Niklas Reimer
+  last_updated_on: 2020-10-14 12:47:00.000000000 Z
+- name: org.mock-server:mockserver-client-java
+  description: A java client for the MockServer
+  version: 5.8.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/2lambda123/cbioportal/blob/master/portal/src/integration-tests/saml-oauth2-setup/pom.xml
+  detection_source: portal/src/integration-tests/saml-oauth2-setup/pom.xml
+  last_updated_by: Pim van Nierop
+  last_updated_on: 2020-08-10 15:37:16.000000000 Z
+- name: org.mock-server:mockserver-netty
+  description: A simple server to support mocking responses from any server / service
+    that uses HTTP
+  version: 5.8.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/2lambda123/cbioportal/blob/master/portal/src/integration-tests/saml-oauth2-setup/pom.xml
+  detection_source: portal/src/integration-tests/saml-oauth2-setup/pom.xml
+  last_updated_by: Pim van Nierop
+  last_updated_on: 2020-08-10 15:37:16.000000000 Z
+- name: org.mockito:mockito-core
+  description: Mockito mock objects library core API and implementation
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source: core/pom.xml
+  last_updated_by: Luke Sikina
+  last_updated_on: 2022-11-21 19:52:34.000000000 Z
+- name: org.mongodb:mongo-java-driver
+  description: The MongoDB Java driver
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source: web/pom.xml
+  last_updated_by: Karthik K
+  last_updated_on: 2021-08-25 20:20:29.000000000 Z
+- name: org.mybatis:mybatis
+  description: The MyBatis SQL mapper framework makes it easier to use a relational
+    database with object-oriented applications
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source: persistence/pom.xml
+  last_updated_by: Niklas Reimer
+  last_updated_on: 2020-10-14 12:47:00.000000000 Z
+- name: org.mybatis:mybatis-spring
+  description: An easy-to-use Spring bridge for MyBatis sql mapping framework
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source: persistence/persistence-mybatis/pom.xml
+  last_updated_by: Pim van Nierop
+  last_updated_on: 2021-09-01 06:39:18.000000000 Z
+- name: org.osgi:org.osgi.service.component.annotations
+  description: OSGi Companion Code for org.osgi.service.component.annotations Version
+    1.3.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source: persistence/pom.xml
+  last_updated_by: Niklas Reimer
+  last_updated_on: 2020-10-14 12:47:00.000000000 Z
+- name: org.redisson:redisson
+  description: Redis based In-Memory Data Grid for Java
+  version: 3.13.2
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/2lambda123/cbioportal/blob/master/persistence/persistence-api/pom.xml
+  detection_source: persistence/persistence-api/pom.xml
+  last_updated_by: Pim van Nierop
+  last_updated_on: 2021-07-22 12:13:43.000000000 Z
+- name: org.slf4j:slf4j-api
+  description: The slf4j API
+  version: 1.7.32
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/2lambda123/cbioportal/blob/master/pom.xml
+  detection_source: pom.xml
+  last_updated_by: Pim van Nierop
+  last_updated_on: 2022-03-14 18:04:36.000000000 Z
+- name: org.springframework.boot:spring-boot-starter-tomcat
+  description: Starter for using Tomcat as the embedded servlet container
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source: portal/src/integration-tests/saml-oauth2-setup/saml-idp/pom.xml
+  last_updated_by: Niklas Reimer
+  last_updated_on: 2020-10-20 12:22:22.000000000 Z
+- name: org.springframework.boot:spring-boot-starter-web
+  description: Starter for building web, including RESTful, applications using Spring
+    MVC
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source: portal/src/integration-tests/saml-oauth2-setup/saml-idp/pom.xml
+  last_updated_by: Niklas Reimer
+  last_updated_on: 2020-10-20 12:22:22.000000000 Z
+- name: org.springframework.security.oauth:spring-security-oauth2
+  description: Module for providing OAuth2 support to Spring Security
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source: security/security-spring/pom.xml
+  last_updated_by: Pim van Nierop
+  last_updated_on: 2021-07-22 12:13:43.000000000 Z
+- name: org.springframework.security:spring-security-acl
+  description: Spring-security-acl
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source: security/security-spring/pom.xml
+  last_updated_by: Pim van Nierop
+  last_updated_on: 2021-07-22 12:13:43.000000000 Z
+- name: org.springframework.security:spring-security-config
+  description: Spring-security-config
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source: security/security-spring/pom.xml
+  last_updated_by: Pim van Nierop
+  last_updated_on: 2021-07-22 12:13:43.000000000 Z
+- name: org.springframework.security:spring-security-core
+  description: Spring-security-core
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source: security/permission-evaluator/pom.xml
+  last_updated_by: Pim van Nierop
+  last_updated_on: 2021-07-12 10:02:19.000000000 Z
+- name: org.springframework.security:spring-security-jwt
+  description: Spring Security JWT is a small utility library for encoding and decoding
+    JSON Web Tokens
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source: security/security-spring/pom.xml
+  last_updated_by: Pim van Nierop
+  last_updated_on: 2021-07-22 12:13:43.000000000 Z
+- name: org.springframework.security:spring-security-ldap
+  description: Spring-security-ldap
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source: security/security-spring/pom.xml
+  last_updated_by: Pim van Nierop
+  last_updated_on: 2021-07-22 12:13:43.000000000 Z
+- name: org.springframework.security:spring-security-openid
+  description: Spring-security-openid
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source: security/security-spring/pom.xml
+  last_updated_by: Pim van Nierop
+  last_updated_on: 2021-07-22 12:13:43.000000000 Z
+- name: org.springframework.security:spring-security-taglibs
+  description: Spring-security-taglibs
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source: portal/pom.xml
+  last_updated_by: Pim van Nierop
+  last_updated_on: 2021-07-30 12:01:27.000000000 Z
+- name: org.springframework.security:spring-security-test
+  description: Spring-security-test
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source: web/pom.xml
+  last_updated_by: Luke Sikina
+  last_updated_on: 2022-06-29 12:44:58.000000000 Z
+- name: org.springframework.security:spring-security-web
+  description: Spring-security-web
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source: security/security-spring/pom.xml
+  last_updated_by: Pim van Nierop
+  last_updated_on: 2021-07-22 12:13:43.000000000 Z
+- name: org.springframework.social:spring-social-config
+  description: Spring Social Config
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source: security/security-spring/pom.xml
+  last_updated_by: Pim van Nierop
+  last_updated_on: 2021-07-22 12:13:43.000000000 Z
+- name: org.springframework.social:spring-social-core
+  description: Foundational module containing the ServiceProvider Connect Framework
+    and Service API invocation support
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source: security/security-spring/pom.xml
+  last_updated_by: Pim van Nierop
+  last_updated_on: 2021-07-22 12:13:43.000000000 Z
+- name: org.springframework.social:spring-social-security
+  description: Spring Security Integration
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source: security/security-spring/pom.xml
+  last_updated_by: Pim van Nierop
+  last_updated_on: 2021-07-22 12:13:43.000000000 Z
+- name: org.springframework.social:spring-social-web
+  description: Spring Web Integration
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source: security/security-spring/pom.xml
+  last_updated_by: Pim van Nierop
+  last_updated_on: 2021-07-22 12:13:43.000000000 Z
+- name: org.springframework:spring-beans
+  description: Spring Beans
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source: persistence/pom.xml
+  last_updated_by: Niklas Reimer
+  last_updated_on: 2020-10-14 12:47:00.000000000 Z
+- name: org.springframework:spring-context
+  description: Spring Context
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source: utils/pom.xml
+  last_updated_by: Pim van Nierop
+  last_updated_on: 2021-07-22 12:13:43.000000000 Z
+- name: org.springframework:spring-context-support
+  description: Spring Context Support
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source: persistence/pom.xml
+  last_updated_by: Niklas Reimer
+  last_updated_on: 2020-10-14 12:47:00.000000000 Z
+- name: org.springframework:spring-core
+  description: Spring Core
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source: utils/pom.xml
+  last_updated_by: Pim van Nierop
+  last_updated_on: 2021-07-22 12:13:43.000000000 Z
+- name: org.springframework:spring-jdbc
+  description: Spring JDBC
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source: persistence/persistence-mybatis/pom.xml
+  last_updated_by: Pim van Nierop
+  last_updated_on: 2021-09-01 06:39:18.000000000 Z
+- name: org.springframework:spring-test
+  description: Spring TestContext Framework
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source: core/pom.xml
+  last_updated_by: Luke Sikina
+  last_updated_on: 2022-11-21 19:52:34.000000000 Z
+- name: org.springframework:spring-tx
+  description: Spring Transaction
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source: core/pom.xml
+  last_updated_by: Luke Sikina
+  last_updated_on: 2022-11-21 19:52:34.000000000 Z
+- name: org.springframework:spring-web
+  description: Spring Web
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source: service/pom.xml
+  last_updated_by: Pim van Nierop
+  last_updated_on: 2023-01-16 15:47:31.000000000 Z
+- name: org.springframework:spring-webmvc
+  description: Spring Web MVC
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source: web/pom.xml
+  last_updated_by: Luke Sikina
+  last_updated_on: 2022-06-29 12:44:58.000000000 Z
+- name: pl.pragmatists:JUnitParams
+  description: Better parameterised tests for JUnit
+  version: 1.1.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/2lambda123/cbioportal/blob/master/pom.xml
+  detection_source: pom.xml
+  last_updated_by: Bas Leenknegt
+  last_updated_on: 2022-10-31 15:53:06.000000000 Z
+- name: xerces:xercesImpl
+  description: Xerces2 is the next generation of high performance, fully compliant
+    XML parsers in the Apache Xerces family
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source: core/pom.xml
+  last_updated_by: Zack Heins
+  last_updated_on: 2016-03-22 22:28:42.000000000 Z
+- name: PyYAML
+  description: YAML parser and emitter for Python
+  package_url: https://pypi.org/project/PyYAML
+  version: '5.4'
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19829/default_74a61b43bdb9fc0cba2978316b9976f43545029b.png
+  detection_source_url: https://github.com/2lambda123/cbioportal/blob/master/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2021-03-25 22:29:12.000000000 Z
+- name: dsnparse
+  description: Parse dsn urls
+  package_url: https://pypi.org/project/dsnparse
+  version: 0.1.15
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/pypi/image.png
+  detection_source_url: https://github.com/2lambda123/cbioportal/blob/master/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: Pim van Nierop
+  last_updated_on: 2023-05-08 15:00:51.000000000 Z
+- name: requests
+  description: Python HTTP for Humans
+  package_url: https://pypi.org/project/requests
+  version: 2.20.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19826/default_d7c684bf2673f008a9f02ac93901229297a22d7e.png
+  detection_source_url: https://github.com/2lambda123/cbioportal/blob/master/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: Avery Wang
+  last_updated_on: 2019-01-07 19:18:51.000000000 Z
+  vulnerabilities:
+  - name: Unintended leak of Proxy-Authorization header in requests
+    cve_id: CVE-2023-32681
+    cve_url: https://github.com/advisories/GHSA-j8r2-6x86-q33q
+    detected_date: May 23
+    severity: moderate
+    first_patched: 2.31.0
