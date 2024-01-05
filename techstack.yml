@@ -2,7 +2,7 @@ repo_name: 2lambda123/cbioportal
 report_id: 6e3e422f766512f191331ca720fb983e
 version: 0.1
 repo_type: Public
-timestamp: '2023-12-29T20:32:23+00:00'
+timestamp: '2024-01-05T08:14:21+00:00'
 requested_by: MatthijsPon
 provider: github
 branch: master
@@ -16,6 +16,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/2329/8ei_UuLc_400x400.png
+  detection_source_url: https://github.com/2lambda123/cbioportal
   detection_source: Repo Metadata
 - name: Java
   description: A concurrent, class-based, object-oriented, language specifically designed
@@ -26,6 +27,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/995/K85ZWV2F.png
+  detection_source_url: https://github.com/2lambda123/cbioportal
   detection_source: Repo Metadata
 - name: JavaScript
   description: Lightweight, interpreted, object-oriented language with first-class
@@ -36,6 +38,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/2lambda123/cbioportal
   detection_source: Repo Metadata
 - name: Jinja
   description: Full featured template engine for Python
@@ -46,6 +49,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Templating Languages & Extensions
   image_url: https://img.stackshare.io/service/2303/New_Project__20_.png
+  detection_source_url: https://github.com/2lambda123/cbioportal/blob/master/requirements.txt
   detection_source: requirements.txt
   last_updated_by: dependabot[bot]
   last_updated_on: 2021-03-19 21:51:15.000000000 Z
@@ -58,6 +62,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1048/perl.png
+  detection_source_url: https://github.com/2lambda123/cbioportal
   detection_source: Repo Metadata
 - name: Python
   description: A clear and powerful object-oriented programming language, comparable
@@ -68,6 +73,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/2lambda123/cbioportal
   detection_source: Repo Metadata
 - name: SQL
   description: It is a domain-specific language used in programming
@@ -77,6 +83,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/2271/default_068d33483bba6b81ee13fbd4dc7aab9780896a54.png
+  detection_source_url: https://github.com/2lambda123/cbioportal/blob/master/core/src/test/resources/seed_mini.sql
   detection_source: core/src/test/resources/seed_mini.sql
   last_updated_by: Stuart Watt
   last_updated_on: 2015-07-07 14:27:23.000000000 Z
@@ -90,6 +97,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/2006/spring-framework-project-logo.png
+  detection_source_url: https://github.com/2lambda123/cbioportal/blob/master/persistence/pom.xml
   detection_source: persistence/pom.xml
   last_updated_by: Niklas Reimer
   last_updated_on: 2020-10-14 12:47:00.000000000 Z
@@ -102,6 +110,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Java Tools
   image_url: https://img.stackshare.io/service/2970/wBjKn0ol.png
+  detection_source_url: https://github.com/2lambda123/cbioportal/blob/master/security/pom.xml
   detection_source: security/pom.xml
   last_updated_by: Niklas Reimer
   last_updated_on: 2020-10-14 12:47:00.000000000 Z
@@ -114,6 +123,7 @@ tools:
   category: Data Stores
   sub_category: Cache
   image_url: https://img.stackshare.io/service/3093/EhcacheTwitterIcon.png
+  detection_source_url: https://github.com/2lambda123/cbioportal/blob/master/persistence/persistence-api/pom.xml
   detection_source: persistence/persistence-api/pom.xml
   last_updated_by: Niklas Reimer
   last_updated_on: 2020-09-25 13:07:38.000000000 Z
@@ -125,6 +135,7 @@ tools:
   category: Data Stores
   sub_category: Databases
   image_url: https://img.stackshare.io/service/3105/h2-logo_square_400x400.png
+  detection_source_url: https://github.com/2lambda123/cbioportal/blob/master/persistence/persistence-mybatis/pom.xml
   detection_source: persistence/persistence-mybatis/pom.xml
   last_updated_by: Ersin Ciftci
   last_updated_on: 2016-12-27 03:18:59.000000000 Z
@@ -136,6 +147,7 @@ tools:
   category: Data Stores
   sub_category: Databases
   image_url: https://img.stackshare.io/service/1030/leaf-360x360.png
+  detection_source_url: https://github.com/2lambda123/cbioportal/blob/master/web/pom.xml
   detection_source: web/pom.xml
   last_updated_by: Karthik K
   last_updated_on: 2021-08-25 20:20:29.000000000 Z
@@ -148,6 +160,7 @@ tools:
   category: Data Stores
   sub_category: Object Relational Mapper (ORM)
   image_url: https://img.stackshare.io/service/5582/1483254.png
+  detection_source_url: https://github.com/2lambda123/cbioportal/blob/master/persistence/persistence-mybatis/pom.xml
   detection_source: persistence/persistence-mybatis/pom.xml
   last_updated_by: Niklas Reimer
   last_updated_on: 2020-10-19 12:50:09.000000000 Z
@@ -159,6 +172,7 @@ tools:
   category: Data Stores
   sub_category: Databases
   image_url: https://img.stackshare.io/service/1025/logo-mysql-170x170.png
+  detection_source_url: https://github.com/2lambda123/cbioportal/blob/master/requirements.txt
   detection_source: requirements.txt
   last_updated_by: Avery Wang
   last_updated_on: 2019-01-07 19:18:51.000000000 Z
@@ -171,6 +185,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Java Build Tools
   image_url: https://img.stackshare.io/package_manager/977/default_9833f2ef0bbc2a946b4cc5e9307264033361076b.png
+  detection_source_url: https://github.com/2lambda123/cbioportal/blob/master/docker/web-and-data/Dockerfile
   detection_source: docker/web-and-data/Dockerfile
   last_updated_by: Hongxin
   last_updated_on: 2022-11-11 15:16:05.000000000 Z
@@ -196,6 +211,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Continuous Integration
   image_url: https://img.stackshare.io/service/190/CvqrSSFs_400x400.jpg
+  detection_source_url: https://github.com/2lambda123/cbioportal/blob/master/.circleci/config.yml
   detection_source: ".circleci/config.yml"
   last_updated_by: Ino de Bruijn
   last_updated_on: 2021-07-26 23:55:01.000000000 Z
@@ -208,6 +224,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Virtual Machine Platforms & Containers
   image_url: https://img.stackshare.io/service/586/n4u37v9t_400x400.png
+  detection_source_url: https://github.com/2lambda123/cbioportal
   detection_source: Repo Metadata
 - name: Git
   description: Fast, scalable, distributed revision control system
@@ -217,6 +234,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/2lambda123/cbioportal
   detection_source: Repo Metadata
 - name: GitHub Actions
   description: Automate your workflow from idea to production
@@ -226,6 +244,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Continuous Integration
   image_url: https://img.stackshare.io/service/11563/actions.png
+  detection_source_url: https://github.com/2lambda123/cbioportal/blob/master/.github/workflows/cbioportal-performance-test.yml
   detection_source: ".github/workflows/cbioportal-performance-test.yml"
   last_updated_by: Manda Wilson
   last_updated_on: 2020-10-28 14:25:06.000000000 Z
@@ -251,6 +270,7 @@ tools:
   category: Monitoring
   sub_category: Log Management
   image_url: https://img.stackshare.io/service/2923/05518ecaa42841e834421e9d6987b04f_400x400.png
+  detection_source_url: https://github.com/2lambda123/cbioportal/blob/master/core/src/test/resources/logback.xml
   detection_source: core/src/test/resources/logback.xml
   last_updated_by: Luke Sikina
   last_updated_on: 2022-09-16 19:08:00.000000000 Z
@@ -278,6 +298,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Testing Frameworks
   image_url: https://img.stackshare.io/service/2021/4y634TJm_400x400.jpg
+  detection_source_url: https://github.com/2lambda123/cbioportal/blob/master/core/pom.xml
   detection_source: core/pom.xml
   last_updated_by: Ersin Ciftci
   last_updated_on: 2017-08-31 16:10:31.000000000 Z
@@ -289,6 +310,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Hosted Package Repository
   image_url: https://img.stackshare.io/service/12572/-RIWgodF_400x400.jpg
+  detection_source_url: https://github.com/2lambda123/cbioportal/blob/master/requirements.txt
   detection_source: requirements.txt
   last_updated_by: Avery Wang
   last_updated_on: 2019-01-07 19:18:51.000000000 Z
@@ -300,6 +322,7 @@ tools:
   category: Monitoring
   sub_category: Log Management
   image_url: https://img.stackshare.io/service/2805/05518ecaa42841e834421e9d6987b04f_400x400.png
+  detection_source_url: https://github.com/2lambda123/cbioportal/blob/master/pom.xml
   detection_source: pom.xml
   last_updated_by: Onur Sumer
   last_updated_on: 2012-07-31 16:14:10.000000000 Z
@@ -311,6 +334,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/2lambda123/cbioportal/blob/master/portal/package.json
   detection_source: portal/package.json
   last_updated_by: Sun
   last_updated_on: 2016-10-21 19:30:17.000000000 Z
@@ -323,6 +347,7 @@ tools:
   category: Application Hosting
   sub_category: Platform as a Service
   image_url: https://img.stackshare.io/service/3276/xWt1RFo6_400x400.jpg
+  detection_source_url: https://github.com/2lambda123/cbioportal/blob/master/portal/src/integration-tests/saml-oauth2-setup/saml-idp/src/main/resources/application.yml
   detection_source: portal/src/integration-tests/saml-oauth2-setup/saml-idp/src/main/resources/application.yml
   last_updated_by: Pim van Nierop
   last_updated_on: 2020-08-10 15:37:16.000000000 Z
@@ -335,6 +360,7 @@ tools:
   category: Application Hosting
   sub_category: Platform as a Service
   image_url: https://img.stackshare.io/service/133/3wgIDj3j.png
+  detection_source_url: https://github.com/2lambda123/cbioportal/blob/master/app.json
   detection_source: app.json
   last_updated_by: Karthik Kalletla
   last_updated_on: 2020-11-10 20:56:38.000000000 Z
@@ -347,6 +373,7 @@ tools:
   category: Analytics
   sub_category: Business Intelligence
   image_url: https://img.stackshare.io/service/11236/Group_22__3_.png
+  detection_source_url: https://github.com/2lambda123/cbioportal/blob/master/core/pom.xml
   detection_source: core/pom.xml
   last_updated_by: Niklas Reimer
   last_updated_on: 2020-09-25 13:07:38.000000000 Z
@@ -359,6 +386,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source_url: https://github.com/2lambda123/cbioportal
   detection_source: Repo Metadata
 - name: Underscore
   description: JavaScript's utility _ belt
@@ -369,6 +397,7 @@ tools:
   category: Libraries
   sub_category: Javascript Utilities & Libraries
   image_url: https://img.stackshare.io/service/1150/underscore-js.png
+  detection_source_url: https://github.com/2lambda123/cbioportal/blob/master/portal/package.json
   detection_source: portal/package.json
   last_updated_by: Sun
   last_updated_on: 2016-10-27 18:33:06.000000000 Z
@@ -380,6 +409,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/2lambda123/cbioportal/blob/master/core/pom.xml
   detection_source: core/pom.xml
   last_updated_by: Luke Sikina
   last_updated_on: 2022-09-16 19:08:00.000000000 Z
@@ -391,6 +421,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/2lambda123/cbioportal/blob/master/web/pom.xml
   detection_source: web/pom.xml
   last_updated_by: Benjamin Gross
   last_updated_on: 2014-05-20 17:44:19.000000000 Z
@@ -442,6 +473,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/2lambda123/cbioportal/blob/master/security/security-spring/pom.xml
   detection_source: security/security-spring/pom.xml
   last_updated_by: Niklas Reimer
   last_updated_on: 2020-09-25 13:07:38.000000000 Z
@@ -453,6 +485,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/2lambda123/cbioportal/blob/master/core/pom.xml
   detection_source: core/pom.xml
   last_updated_by: Niklas Reimer
   last_updated_on: 2020-10-14 12:47:00.000000000 Z
@@ -465,6 +498,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/2lambda123/cbioportal/blob/master/core/pom.xml
   detection_source: core/pom.xml
   last_updated_by: Niklas Reimer
   last_updated_on: 2020-10-14 12:47:00.000000000 Z
@@ -476,6 +510,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/2lambda123/cbioportal/blob/master/core/pom.xml
   detection_source: core/pom.xml
   last_updated_by: Niklas Reimer
   last_updated_on: 2020-10-14 12:47:00.000000000 Z
@@ -487,6 +522,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/2lambda123/cbioportal/blob/master/portal/pom.xml
   detection_source: portal/pom.xml
   last_updated_by: Luke Sikina
   last_updated_on: 2022-05-16 20:26:39.000000000 Z
@@ -499,6 +535,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/2lambda123/cbioportal/blob/master/security/pom.xml
   detection_source: security/pom.xml
   last_updated_by: Niklas Reimer
   last_updated_on: 2020-10-14 12:47:00.000000000 Z
@@ -511,6 +548,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/2lambda123/cbioportal/blob/master/security/security-spring/pom.xml
   detection_source: security/security-spring/pom.xml
   last_updated_by: Niklas Reimer
   last_updated_on: 2020-09-25 13:07:38.000000000 Z
@@ -522,6 +560,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/2lambda123/cbioportal/blob/master/core/pom.xml
   detection_source: core/pom.xml
   last_updated_by: Niklas Reimer
   last_updated_on: 2020-10-14 12:47:00.000000000 Z
@@ -533,6 +572,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/2lambda123/cbioportal/blob/master/persistence/persistence-mybatis/pom.xml
   detection_source: persistence/persistence-mybatis/pom.xml
   last_updated_by: Ersin Ciftci
   last_updated_on: 2016-12-27 03:18:59.000000000 Z
@@ -544,6 +584,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/2lambda123/cbioportal/blob/master/web/pom.xml
   detection_source: web/pom.xml
   last_updated_by: Niklas Reimer
   last_updated_on: 2020-09-25 13:07:38.000000000 Z
@@ -556,6 +597,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/2lambda123/cbioportal/blob/master/service/pom.xml
   detection_source: service/pom.xml
   last_updated_by: Pim van Nierop
   last_updated_on: 2023-01-16 15:47:31.000000000 Z
@@ -567,6 +609,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/2lambda123/cbioportal/blob/master/core/pom.xml
   detection_source: core/pom.xml
   last_updated_by: Niklas Reimer
   last_updated_on: 2021-02-05 14:54:04.000000000 Z
@@ -579,6 +622,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/2lambda123/cbioportal/blob/master/core/pom.xml
   detection_source: core/pom.xml
   last_updated_by: Niklas Reimer
   last_updated_on: 2021-02-05 14:54:04.000000000 Z
@@ -592,6 +636,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/2lambda123/cbioportal/blob/master/core/pom.xml
   detection_source: core/pom.xml
   last_updated_by: Niklas Reimer
   last_updated_on: 2021-02-05 14:54:04.000000000 Z
@@ -603,6 +648,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/2lambda123/cbioportal/blob/master/core/pom.xml
   detection_source: core/pom.xml
   last_updated_by: Niklas Reimer
   last_updated_on: 2021-02-05 14:54:04.000000000 Z
@@ -614,6 +660,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/2lambda123/cbioportal/blob/master/core/pom.xml
   detection_source: core/pom.xml
   last_updated_by: Niklas Reimer
   last_updated_on: 2021-02-05 14:54:04.000000000 Z
@@ -626,6 +673,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/2lambda123/cbioportal/blob/master/web/pom.xml
   detection_source: web/pom.xml
   last_updated_by: Niklas Reimer
   last_updated_on: 2021-02-05 14:54:04.000000000 Z
@@ -637,6 +685,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/2lambda123/cbioportal/blob/master/core/pom.xml
   detection_source: core/pom.xml
   last_updated_by: Jianjiong Gao
   last_updated_on: 2014-01-17 22:04:32.000000000 Z
@@ -648,6 +697,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/2lambda123/cbioportal/blob/master/web/pom.xml
   detection_source: web/pom.xml
   last_updated_by: Luke Sikina
   last_updated_on: 2022-06-29 12:44:58.000000000 Z
@@ -659,6 +709,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/2lambda123/cbioportal/blob/master/web/pom.xml
   detection_source: web/pom.xml
   last_updated_by: Luke Sikina
   last_updated_on: 2022-06-29 12:44:58.000000000 Z
@@ -670,6 +721,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/2lambda123/cbioportal/blob/master/persistence/pom.xml
   detection_source: persistence/pom.xml
   last_updated_by: Niklas Reimer
   last_updated_on: 2020-10-14 12:47:00.000000000 Z
@@ -682,6 +734,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/2lambda123/cbioportal/blob/master/persistence/persistence-api/pom.xml
   detection_source: persistence/persistence-api/pom.xml
   last_updated_by: Niklas Reimer
   last_updated_on: 2020-09-25 13:07:38.000000000 Z
@@ -692,6 +745,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/2lambda123/cbioportal/blob/master/web/pom.xml
   detection_source: web/pom.xml
   last_updated_by: Karthik K
   last_updated_on: 2021-08-25 20:20:29.000000000 Z
@@ -703,6 +757,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/2lambda123/cbioportal/blob/master/core/pom.xml
   detection_source: core/pom.xml
   last_updated_by: Niklas Reimer
   last_updated_on: 2020-10-14 12:47:00.000000000 Z
@@ -714,6 +769,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/2lambda123/cbioportal/blob/master/core/pom.xml
   detection_source: core/pom.xml
   last_updated_by: Jianjiong Gao
   last_updated_on: 2014-01-22 18:48:08.000000000 Z
@@ -724,6 +780,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/2lambda123/cbioportal/blob/master/portal/pom.xml
   detection_source: portal/pom.xml
   last_updated_by: Robert Sheridan
   last_updated_on: 2016-02-16 20:21:47.000000000 Z
@@ -755,6 +812,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/2lambda123/cbioportal/blob/master/service/pom.xml
   detection_source: service/pom.xml
   last_updated_by: Niklas Reimer
   last_updated_on: 2020-10-14 12:47:00.000000000 Z
@@ -766,6 +824,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/2lambda123/cbioportal/blob/master/core/pom.xml
   detection_source: core/pom.xml
   last_updated_by: Robert Sheridan
   last_updated_on: 2016-02-16 20:21:47.000000000 Z
@@ -777,6 +836,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/2lambda123/cbioportal/blob/master/core/pom.xml
   detection_source: core/pom.xml
   last_updated_by: Robert Sheridan
   last_updated_on: 2016-06-21 12:06:36.000000000 Z
@@ -788,6 +848,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/2lambda123/cbioportal/blob/master/core/pom.xml
   detection_source: core/pom.xml
   last_updated_by: Abeshouse, Adam A./Sloan Kettering Institute
   last_updated_on: 2016-03-15 20:15:08.000000000 Z
@@ -799,6 +860,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/2lambda123/cbioportal/blob/master/core/pom.xml
   detection_source: core/pom.xml
   last_updated_by: Robert Sheridan
   last_updated_on: 2016-02-16 20:21:47.000000000 Z
@@ -810,6 +872,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/2lambda123/cbioportal/blob/master/core/pom.xml
   detection_source: core/pom.xml
   last_updated_by: Luke Sikina
   last_updated_on: 2022-11-21 19:52:34.000000000 Z
@@ -822,6 +885,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/2lambda123/cbioportal/blob/master/core/pom.xml
   detection_source: core/pom.xml
   last_updated_by: Luke Sikina
   last_updated_on: 2022-11-21 19:52:34.000000000 Z
@@ -833,6 +897,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/2lambda123/cbioportal/blob/master/core/pom.xml
   detection_source: core/pom.xml
   last_updated_by: Luke Sikina
   last_updated_on: 2022-11-21 19:52:34.000000000 Z
@@ -844,6 +909,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/2lambda123/cbioportal/blob/master/service/pom.xml
   detection_source: service/pom.xml
   last_updated_by: Pim van Nierop
   last_updated_on: 2023-01-16 15:47:31.000000000 Z
@@ -855,6 +921,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/2lambda123/cbioportal/blob/master/persistence/persistence-mybatis/pom.xml
   detection_source: persistence/persistence-mybatis/pom.xml
   last_updated_by: Pim van Nierop
   last_updated_on: 2021-09-01 06:39:18.000000000 Z
@@ -866,6 +933,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/2lambda123/cbioportal/blob/master/core/pom.xml
   detection_source: core/pom.xml
   last_updated_by: Luke Sikina
   last_updated_on: 2022-11-21 19:52:34.000000000 Z
@@ -877,6 +945,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/2lambda123/cbioportal/blob/master/core/pom.xml
   detection_source: core/pom.xml
   last_updated_by: Luke Sikina
   last_updated_on: 2022-11-21 19:52:34.000000000 Z
@@ -888,6 +957,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/2lambda123/cbioportal/blob/master/portal/pom.xml
   detection_source: portal/pom.xml
   last_updated_by: Robert Sheridan
   last_updated_on: 2021-01-12 16:10:58.000000000 Z
@@ -898,6 +968,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/2lambda123/cbioportal/blob/master/core/pom.xml
   detection_source: core/pom.xml
   last_updated_by: Luke Sikina
   last_updated_on: 2022-11-21 19:52:34.000000000 Z
@@ -909,6 +980,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/2lambda123/cbioportal/blob/master/core/pom.xml
   detection_source: core/pom.xml
   last_updated_by: Luke Sikina
   last_updated_on: 2022-11-21 19:52:34.000000000 Z
@@ -920,6 +992,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/2lambda123/cbioportal/blob/master/web/pom.xml
   detection_source: web/pom.xml
   last_updated_by: Karthik K
   last_updated_on: 2021-08-25 20:20:29.000000000 Z
@@ -932,6 +1005,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/2lambda123/cbioportal/blob/master/core/pom.xml
   detection_source: core/pom.xml
   last_updated_by: Luke Sikina
   last_updated_on: 2022-11-21 19:52:34.000000000 Z
@@ -943,6 +1017,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/2lambda123/cbioportal/blob/master/persistence/persistence-api/pom.xml
   detection_source: persistence/persistence-api/pom.xml
   last_updated_by: Pim van Nierop
   last_updated_on: 2021-07-22 12:13:43.000000000 Z
@@ -954,6 +1029,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/2lambda123/cbioportal/blob/master/model/pom.xml
   detection_source: model/pom.xml
   last_updated_by: Niklas Reimer
   last_updated_on: 2020-10-14 12:47:00.000000000 Z
@@ -992,6 +1068,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/2lambda123/cbioportal/blob/master/core/pom.xml
   detection_source: core/pom.xml
   last_updated_by: Luke Sikina
   last_updated_on: 2022-11-21 19:52:34.000000000 Z
@@ -1003,6 +1080,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/2lambda123/cbioportal/blob/master/web/pom.xml
   detection_source: web/pom.xml
   last_updated_by: Karthik K
   last_updated_on: 2021-08-25 20:20:29.000000000 Z
@@ -1015,6 +1093,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/2lambda123/cbioportal/blob/master/persistence/pom.xml
   detection_source: persistence/pom.xml
   last_updated_by: Niklas Reimer
   last_updated_on: 2020-10-14 12:47:00.000000000 Z
@@ -1026,6 +1105,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/2lambda123/cbioportal/blob/master/persistence/persistence-mybatis/pom.xml
   detection_source: persistence/persistence-mybatis/pom.xml
   last_updated_by: Pim van Nierop
   last_updated_on: 2021-09-01 06:39:18.000000000 Z
@@ -1038,6 +1118,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/2lambda123/cbioportal/blob/master/persistence/pom.xml
   detection_source: persistence/pom.xml
   last_updated_by: Niklas Reimer
   last_updated_on: 2020-10-14 12:47:00.000000000 Z
@@ -1075,6 +1156,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/2lambda123/cbioportal/blob/master/portal/src/integration-tests/saml-oauth2-setup/saml-idp/pom.xml
   detection_source: portal/src/integration-tests/saml-oauth2-setup/saml-idp/pom.xml
   last_updated_by: Niklas Reimer
   last_updated_on: 2020-10-20 12:22:22.000000000 Z
@@ -1087,6 +1169,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/2lambda123/cbioportal/blob/master/portal/src/integration-tests/saml-oauth2-setup/saml-idp/pom.xml
   detection_source: portal/src/integration-tests/saml-oauth2-setup/saml-idp/pom.xml
   last_updated_by: Niklas Reimer
   last_updated_on: 2020-10-20 12:22:22.000000000 Z
@@ -1098,6 +1181,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/2lambda123/cbioportal/blob/master/security/security-spring/pom.xml
   detection_source: security/security-spring/pom.xml
   last_updated_by: Pim van Nierop
   last_updated_on: 2021-07-22 12:13:43.000000000 Z
@@ -1109,6 +1193,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/2lambda123/cbioportal/blob/master/security/security-spring/pom.xml
   detection_source: security/security-spring/pom.xml
   last_updated_by: Pim van Nierop
   last_updated_on: 2021-07-22 12:13:43.000000000 Z
@@ -1120,6 +1205,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/2lambda123/cbioportal/blob/master/security/security-spring/pom.xml
   detection_source: security/security-spring/pom.xml
   last_updated_by: Pim van Nierop
   last_updated_on: 2021-07-22 12:13:43.000000000 Z
@@ -1131,6 +1217,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/2lambda123/cbioportal/blob/master/security/permission-evaluator/pom.xml
   detection_source: security/permission-evaluator/pom.xml
   last_updated_by: Pim van Nierop
   last_updated_on: 2021-07-12 10:02:19.000000000 Z
@@ -1143,6 +1230,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/2lambda123/cbioportal/blob/master/security/security-spring/pom.xml
   detection_source: security/security-spring/pom.xml
   last_updated_by: Pim van Nierop
   last_updated_on: 2021-07-22 12:13:43.000000000 Z
@@ -1154,6 +1242,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/2lambda123/cbioportal/blob/master/security/security-spring/pom.xml
   detection_source: security/security-spring/pom.xml
   last_updated_by: Pim van Nierop
   last_updated_on: 2021-07-22 12:13:43.000000000 Z
@@ -1165,6 +1254,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/2lambda123/cbioportal/blob/master/security/security-spring/pom.xml
   detection_source: security/security-spring/pom.xml
   last_updated_by: Pim van Nierop
   last_updated_on: 2021-07-22 12:13:43.000000000 Z
@@ -1176,6 +1266,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/2lambda123/cbioportal/blob/master/portal/pom.xml
   detection_source: portal/pom.xml
   last_updated_by: Pim van Nierop
   last_updated_on: 2021-07-30 12:01:27.000000000 Z
@@ -1187,6 +1278,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/2lambda123/cbioportal/blob/master/web/pom.xml
   detection_source: web/pom.xml
   last_updated_by: Luke Sikina
   last_updated_on: 2022-06-29 12:44:58.000000000 Z
@@ -1198,6 +1290,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/2lambda123/cbioportal/blob/master/security/security-spring/pom.xml
   detection_source: security/security-spring/pom.xml
   last_updated_by: Pim van Nierop
   last_updated_on: 2021-07-22 12:13:43.000000000 Z
@@ -1209,6 +1302,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/2lambda123/cbioportal/blob/master/security/security-spring/pom.xml
   detection_source: security/security-spring/pom.xml
   last_updated_by: Pim van Nierop
   last_updated_on: 2021-07-22 12:13:43.000000000 Z
@@ -1221,6 +1315,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/2lambda123/cbioportal/blob/master/security/security-spring/pom.xml
   detection_source: security/security-spring/pom.xml
   last_updated_by: Pim van Nierop
   last_updated_on: 2021-07-22 12:13:43.000000000 Z
@@ -1232,6 +1327,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/2lambda123/cbioportal/blob/master/security/security-spring/pom.xml
   detection_source: security/security-spring/pom.xml
   last_updated_by: Pim van Nierop
   last_updated_on: 2021-07-22 12:13:43.000000000 Z
@@ -1243,6 +1339,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/2lambda123/cbioportal/blob/master/security/security-spring/pom.xml
   detection_source: security/security-spring/pom.xml
   last_updated_by: Pim van Nierop
   last_updated_on: 2021-07-22 12:13:43.000000000 Z
@@ -1254,6 +1351,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/2lambda123/cbioportal/blob/master/persistence/pom.xml
   detection_source: persistence/pom.xml
   last_updated_by: Niklas Reimer
   last_updated_on: 2020-10-14 12:47:00.000000000 Z
@@ -1265,6 +1363,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/2lambda123/cbioportal/blob/master/utils/pom.xml
   detection_source: utils/pom.xml
   last_updated_by: Pim van Nierop
   last_updated_on: 2021-07-22 12:13:43.000000000 Z
@@ -1276,6 +1375,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/2lambda123/cbioportal/blob/master/persistence/pom.xml
   detection_source: persistence/pom.xml
   last_updated_by: Niklas Reimer
   last_updated_on: 2020-10-14 12:47:00.000000000 Z
@@ -1287,6 +1387,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/2lambda123/cbioportal/blob/master/utils/pom.xml
   detection_source: utils/pom.xml
   last_updated_by: Pim van Nierop
   last_updated_on: 2021-07-22 12:13:43.000000000 Z
@@ -1298,6 +1399,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/2lambda123/cbioportal/blob/master/persistence/persistence-mybatis/pom.xml
   detection_source: persistence/persistence-mybatis/pom.xml
   last_updated_by: Pim van Nierop
   last_updated_on: 2021-09-01 06:39:18.000000000 Z
@@ -1309,6 +1411,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/2lambda123/cbioportal/blob/master/core/pom.xml
   detection_source: core/pom.xml
   last_updated_by: Luke Sikina
   last_updated_on: 2022-11-21 19:52:34.000000000 Z
@@ -1320,6 +1423,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/2lambda123/cbioportal/blob/master/core/pom.xml
   detection_source: core/pom.xml
   last_updated_by: Luke Sikina
   last_updated_on: 2022-11-21 19:52:34.000000000 Z
@@ -1331,6 +1435,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/2lambda123/cbioportal/blob/master/service/pom.xml
   detection_source: service/pom.xml
   last_updated_by: Pim van Nierop
   last_updated_on: 2023-01-16 15:47:31.000000000 Z
@@ -1342,6 +1447,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/2lambda123/cbioportal/blob/master/web/pom.xml
   detection_source: web/pom.xml
   last_updated_by: Luke Sikina
   last_updated_on: 2022-06-29 12:44:58.000000000 Z
@@ -1367,6 +1473,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/2lambda123/cbioportal/blob/master/core/pom.xml
   detection_source: core/pom.xml
   last_updated_by: Zack Heins
   last_updated_on: 2016-03-22 22:28:42.000000000 Z
