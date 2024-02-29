@@ -2,14 +2,14 @@ repo_name: 2lambda123/cbioportal
 report_id: 6e3e422f766512f191331ca720fb983e
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-05T08:14:21+00:00'
+timestamp: '2024-02-29T19:21:40+00:00'
 requested_by: MatthijsPon
 provider: github
 branch: master
 detected_tools_count: 121
 tools:
 - name: ActionScript
-  description: 'An object-oriented programming language '
+  description: An object-oriented programming language
   website_url: http://www.adobe.com/devnet/actionscript.html
   open_source: true
   hosted_saas: false
@@ -177,7 +177,7 @@ tools:
   last_updated_by: Avery Wang
   last_updated_on: 2019-01-07 19:18:51.000000000 Z
 - name: Apache Maven
-  description: 'Apache build manager for Java projects. '
+  description: Apache build manager for Java projects.
   website_url: http://maven.apache.org/
   license: Apache-2.0
   open_source: true
